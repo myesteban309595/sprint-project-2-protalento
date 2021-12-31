@@ -6,7 +6,7 @@ El fin de este proyecto, es la administracion, gestion y control de un restauran
 
 ## Proceso de instalacion
 
- descarga el respositorio en el siguiente link[repositorio GITHUB]( ), una vez descargado instala los paquetes necesarios y se implemetó con una base de datos trabajada desde mongoose, por consiguiente debes cumplir los siguientes requerimientos:
+ descarga el respositorio en el siguiente link[repositorio GITHUB](https://github.com/myesteban309595/sprint-project2-protalento), una vez descargado instala los paquetes necesarios y se implemetó con una base de datos trabajada desde mongoose, por consiguiente debes cumplir los siguientes requerimientos:
 
  - Tener mongodb en tu ordenador, la direccion por defecto para mongoose es " mongodb://localhost:27017/restaurante ",
    donde "restaurante" denota la base de datos en la cual se ejecutará, si tienes mongodb como servicio debes 
