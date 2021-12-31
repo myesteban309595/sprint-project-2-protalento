@@ -64,7 +64,7 @@
         default: "efectivo"
     },
 
-    orderState: {   // este es el estado de la orden
+    State: {   // este es el estado de la orden
 
         type: String,
         default :"pendiente"
